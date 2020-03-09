@@ -26,7 +26,7 @@ jobs:
 
       - name: Extract version
         id: extract_version
-        uses: @fxtr/ga-npm-version@v1.0.6
+        uses: @fxtr/ga-npm-version@1.0.6
       # From now you can access version
       - name: Print version
         run: echo ${{ steps.extract_version.outputs.version }}
