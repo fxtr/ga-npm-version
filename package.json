@@ -1,5 +1,5 @@
 {
-  "name": "extract-package-version",
+  "name": "@fixter/ga-npm-version",
   "version": "1.0.7",
   "description": "Allows you to get the npm version of the package in your Github Actions workflow",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Saionaro/extract-package-version.git"
+    "url": "git+https://github.com/fxtr/ga-npm-version.git"
   },
   "keywords": [],
-  "author": "Saionaro",
+  "author": "Fixter",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Saionaro/extract-package-version/issues"
+    "url": "https://github.com/fxtr/ga-npm-version/issues"
   },
-  "homepage": "https://github.com/Saionaro/extract-package-version#readme",
+  "homepage": "https://github.com/fxtr/ga-npm-version#readme",
   "dependencies": {
     "@actions/core": "^1.2.3"
   },

@@ -1,6 +1,6 @@
-name: Extract Package Version
+name: NPM Package Version
 description: Extract Package Version for npm packages.
-author: "Saionaro"
+author: "Fixter"
 runs:
   using: "node12"
   main: "dist/index.js"
